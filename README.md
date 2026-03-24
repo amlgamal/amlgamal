@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aml+Gamal;Full+Stack+Developer+from+Egypt+%F0%9F%87%AA%F0%9F%87%AC;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aml+Gamal;Full+Stack+Developer;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### 🙋‍♀️ About Me
 
-- 🎓 I'm a passionate **Full Stack Developer** based in **Egypt**
+- 🎓 I'm a passionate **Full Stack Developer**
 - 💡 I love building clean, scalable web applications from back to front
 - 🔭 I'm currently working on **full stack projects using Node.js & Angular**
 - 🌱 I'm currently learning **Full Stack Development** — diving deep into modern web technologies
